@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in academic or research work, please cite this repository."
+title: "Hindi-English Code-Mixed NLP Toolkit"
+type: software
+authors:
+  - family-names: Mishra
+    given-names: Shubham
+    orcid: ""
+repository-code: "https://github.com/sbmmishra25/sbm25"
+license: MIT
+abstract: "A reproducible starter toolkit for Hindi-English code-mixed text preprocessing and sentiment classification experiments."
+keywords:
+  - NLP
+  - code-mixed NLP
+  - Hindi-English
+  - sentiment analysis
+  - machine learning
+  - natural language processing
